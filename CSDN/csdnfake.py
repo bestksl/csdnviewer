@@ -33,7 +33,14 @@ urls = {"https://haoxuanli.blog.csdn.net/article/details/102648205",
         "https://haoxuanli.blog.csdn.net/article/details/102996489",
         "https://haoxuanli.blog.csdn.net/article/details/102598132",
         "https://haoxuanli.blog.csdn.net/article/details/102714135",
-        "https://haoxuanli.blog.csdn.net/article/details/102735955"
+        "https://haoxuanli.blog.csdn.net/article/details/102735955",
+        "https://haoxuanli.blog.csdn.net/article/details/101341084",
+        "https://haoxuanli.blog.csdn.net/article/details/102735930"
+        "https://haoxuanli.blog.csdn.net/article/details/102966072"
+        "https://haoxuanli.blog.csdn.net/article/details/101341217"
+        "https://haoxuanli.blog.csdn.net/article/details/102928261"
+        "https://haoxuanli.blog.csdn.net/article/details/102598132"
+        "https://haoxuanli.blog.csdn.net/article/details/102737546"
         }
 
 j = 1
